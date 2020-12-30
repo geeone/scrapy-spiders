@@ -1,0 +1,14 @@
+boto3==1.14.48
+Twisted==20.3.0
+Scrapy==2.3.0
+botocore==1.17.48
+requests==2.24.0
+pdfkit==0.6.1
+simplejson==3.17.2
+scrapy-fake-useragent==1.4.4
+scrapy-proxies==0.4
+scrapy-splash==0.7.2
+2captcha-python==1.0.3
+imgkit==1.0.2
+selenium==3.141.0
+websocket-client==0.57.0
